@@ -1,1 +1,2 @@
 Hello this is chapter 1 of story2
+This is line 2 in this file
